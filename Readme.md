@@ -1,0 +1,1 @@
+The app shows a JSON of the IP, Browser's language and Operating System.
